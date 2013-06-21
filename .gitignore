@@ -1,0 +1,12 @@
+
+*.xcuserstate
+
+Hex.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+Hex.xcodeproj/project.xcworkspace/xcuserdata/akisubal.xcuserdatad/WorkspaceSettings.xcsettings
+
+Hex.xcodeproj/xcuserdata/akisubal.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist
+
+Hex.xcodeproj/xcuserdata/akisubal.xcuserdatad/xcschemes/Hex.xcscheme
+
+Hex.xcodeproj/xcuserdata/akisubal.xcuserdatad/xcschemes/xcschememanagement.plist
